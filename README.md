@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm T E J</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/saitejamoroju/saitejamoroju/assets/104844024/ca5fb9f4-08d8-4dda-bd3a-71b389b0819b)
-">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/1b256a2f1b9f433ef807f42de0b3cc25c1ba9f78c10bc53df6d1bc841c983398/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966">
 - 🌱 I’m currently learning **Node JS ,Express**
 
 - 💬 Ask me about **Data Structures & Algorithms**
