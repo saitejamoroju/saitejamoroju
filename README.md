@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saitejamoroju&label=Profile%20views&color=0e75b6&style=flat" alt="saitejamoroju" /> </p>
 
-- 🌱 I’m currently learning **Node JS ,Express**
-
 - 💬 Ask me about **Data Structures & Algorithms**
 
 - 📫 How to reach me **tejamoroju@gmail.com**
